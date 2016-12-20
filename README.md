@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/jdurkin/jdurkin.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<img width="32" alt="screencapture_2016113_1316390" src="https://cloud.githubusercontent.com/assets/3238135/21336920/d0ea75c6-c636-11e6-8ebe-c3b29527d464.png">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
